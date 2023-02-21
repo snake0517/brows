@@ -84,67 +84,26 @@ textarea {
    Author's custom styles
    ========================================================================== */
 /* Color Theme Swatches in Hex */
-.color-theme_Dragon-Logo-1-hex {
-  color: #261F22;
-}
-
-.color-theme_Dragon-Logo-2-hex {
-  color: #1C2D8C;
-}
-
-.color-theme_Dragon-Logo-3-hex {
-  color: #A3A7BF;
-}
-
-.color-theme_Dragon-Logo-4-hex {
-  color: #2A438C;
-}
-
-.color-theme_Dragon-Logo-5-hex {
-  color: #F2F2F2;
-}
+/* Color Theme Swatches in Hex */
+.Gabby-1-hex { color: #7EB37B; }
+.Gabby-2-hex { color: #9484F5; }
+.Gabby-3-hex { color: #5BFA52; }
+.Gabby-4-hex { color: #FAA86E; }
+.Gabby-5-hex { color: #B3937D; }
 
 /* Color Theme Swatches in RGBA */
-.color-theme_Dragon-Logo-1-rgba {
-  color: rgba(38, 31, 34, 1);
-}
-
-.color-theme_Dragon-Logo-2-rgba {
-  color: rgba(28, 45, 140, 1);
-}
-
-.color-theme_Dragon-Logo-3-rgba {
-  color: rgba(163, 167, 191, 1);
-}
-
-.color-theme_Dragon-Logo-4-rgba {
-  color: rgba(42, 67, 140, 1);
-}
-
-.color-theme_Dragon-Logo-5-rgba {
-  color: rgba(242, 242, 242, 1);
-}
+.Gabby-1-rgba { color: rgba(126, 179, 123, 1); }
+.Gabby-2-rgba { color: rgba(148, 132, 245, 1); }
+.Gabby-3-rgba { color: rgba(91, 250, 82, 1); }
+.Gabby-4-rgba { color: rgba(250, 168, 110, 1); }
+.Gabby-5-rgba { color: rgba(179, 147, 125, 1); }
 
 /* Color Theme Swatches in HSLA */
-.color-theme_Dragon-Logo-1-hsla {
-  color: hsla(334, 10, 13, 1);
-}
-
-.color-theme_Dragon-Logo-2-hsla {
-  color: hsla(230, 66, 32, 1);
-}
-
-.color-theme_Dragon-Logo-3-hsla {
-  color: hsla(231, 17, 69, 1);
-}
-
-.color-theme_Dragon-Logo-4-hsla {
-  color: hsla(224, 53, 35, 1);
-}
-
-.color-theme_Dragon-Logo-5-hsla {
-  color: hsla(0, 0, 94, 1);
-}
+.Gabby-1-hsla { color: hsla(116, 26, 59, 1); }
+.Gabby-2-hsla { color: hsla(248, 84, 73, 1); }
+.Gabby-3-hsla { color: hsla(116, 94, 65, 1); }
+.Gabby-4-hsla { color: hsla(24, 93, 70, 1); }
+.Gabby-5-hsla { color: hsla(24, 26, 59, 1); }
 
 html {
   box-sizing: border-box;
