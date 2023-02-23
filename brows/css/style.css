@@ -119,6 +119,7 @@ html {
   width: 80vw;
   margin: 40px auto;
   max-width: 900px;
+ 
 }
 
 .img-right {
@@ -141,11 +142,17 @@ html {
   border: 1px solid #c0c0c0;
   padding: 5px;
 }
-
+.content{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 20px;
+}
 
 img {
   max-width: 100%;
   height: auto;
+  display: block;
+  margin: auto;
 }
 
 body {
