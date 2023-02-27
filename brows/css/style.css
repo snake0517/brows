@@ -142,6 +142,9 @@ html {
   border: 1px solid #c0c0c0;
   padding: 5px;
 }
+.header{
+  
+}
 .content{
   display: grid;
   grid-template-columns: repeat(2,1fr);
@@ -166,6 +169,8 @@ header.primary {
 }
 
 nav {
+  height: 5%;
+  background-color: #9484F5;
 
 
   display: flex;
@@ -200,7 +205,8 @@ footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
+  height: 5%;
+  background-color: #9484F5;
 }
 
 footer img {
